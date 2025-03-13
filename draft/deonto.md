@@ -1,0 +1,3 @@
+De todo lo que vi de parte del repaso son codigos y comandos para el código HTML diapositivas  Esta presentación está enfocada en el tema de **licencias de software y el movimiento del software libre**.
+El código HTML es una presentación interactiva que combina contenido educativo sobre licencias de software y el movimiento del software libre con funcionalidades técnicas avanzadas para mejorar la experiencia del usuario durante la presentación.
+El mensaje principal es la importancia de elegir y respetar las licencias de software, así como la promoción de principios como la libertad y la justicia en el desarrollo de software.
